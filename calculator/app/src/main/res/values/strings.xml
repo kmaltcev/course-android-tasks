@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Calculator</string>
+    <string name="app_name">Exercise 3: Simple calculator</string>
     <string name="operand1">operand1</string>
     <string name="divide">/</string>
     <string name="multiply">*</string>
@@ -7,8 +7,10 @@
     <string name="plus">+</string>
     <string name="equal">=</string>
     <string name="operand2">operand2</string>
-    <string name="title">Exercise 3: Simple calculator</string>
     <string name="lval">left value</string>
     <string name="rval">right value</string>
     <string name="result">result</string>
+    <string name="dbz">Division by zero!</string>
+    <string name="npe">One or both operands are empty!</string>
+    <string name="ope">No operator to perform calculations!</string>
 </resources>
