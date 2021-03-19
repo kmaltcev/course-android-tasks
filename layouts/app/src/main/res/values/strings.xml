@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="top_label">The activity demonstrates the use of Relative Layout with two internal Linear layouts</string>
+
+    <string name="name">Your Name:</string>
+    <string name="name_placeholder">Name</string>
+    <string name="button_text">Press me!</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="option3">Option3</string>
+    <string name="alt1">Alternative1</string>
+    <string name="alt2">Alternative2</string>
+
+    <string name="top_label2">This activity demonstrates the use of Grid Layout with embedded image views</string>
+
+    <string name="clock_label">This activity demonstrates the use of Frame Layout with multiple elements on top of each other</string>
+    <string name="myClock_label">My Clock</string>
+
+    <string name="table_label">This Activity demonstrates the use of the Table Layout with spanning columns</string>
+    <string name="cell">Cell%1$s</string>
+    <string name="cell1">Cell1</string>
+    <string name="cell2">Cell2</string>
+    <string name="cell3">Cell3</string>
+    <string name="cell4">Cell4</string>
+    <string name="cell5">Cell5</string>
+    <string name="cell6">Cell6</string>
+    <string name="cell7">Cell7</string>
+    <string name="cell8">Cell8</string>
+    <string name="cell9">Cell9</string>
+    <string name="desc_opacity">desc_opacity</string>
+    <string name="todo">TODO</string>
+
+</resources>
