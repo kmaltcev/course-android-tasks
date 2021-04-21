@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ex3a</string>
+    <string name="title">Hello, this app will demonstrate the transfer to a second actiovity and sending results back to this one. Press the button to start.</string>
+    <string name="register">Register</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="last_name">Last Name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="send_back">Send Back</string>
+    <string name="btnAgain">again…</string>
+</resources>

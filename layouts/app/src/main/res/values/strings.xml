@@ -29,5 +29,9 @@
     <string name="cell9">Cell9</string>
     <string name="desc_opacity">desc_opacity</string>
     <string name="todo">TODO</string>
+    <string name="layout_1">layout 1</string>
+    <string name="layout_2">layout 2</string>
+    <string name="layout_3">layout 3</string>
+    <string name="layout_4">layout 4</string>
 
 </resources>

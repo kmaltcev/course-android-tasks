@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:title="layout 1" android:id="@+id/layout1"></item>
-    <item android:title="layout 2" android:id="@+id/layout2"></item>
-    <item android:title="layout 3" android:id="@+id/layout3"></item>
-    <item android:title="layout 4" android:id="@+id/layout4"></item>
+    <item android:title="@string/layout_1" android:id="@+id/layout1"></item>
+    <item android:title="@string/layout_2" android:id="@+id/layout2"></item>
+    <item android:title="@string/layout_3" android:id="@+id/frame1"></item>
+    <item android:title="@string/layout_4" android:id="@+id/layout3"></item>
 </menu>

@@ -1,6 +1,5 @@
 package com.simple.layouts
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -18,13 +17,12 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
-
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
             R.id.layout1->setContentView(R.layout.layout1)
             R.id.layout2->setContentView(R.layout.layout2)
-            R.id.layout3->setContentView(R.layout.frame1)
-            R.id.layout4->setContentView(R.layout.layout3)
+            R.id.frame1->setContentView(R.layout.frame1)
+            R.id.layout3->setContentView(R.layout.layout3)
         }
         return true
     }

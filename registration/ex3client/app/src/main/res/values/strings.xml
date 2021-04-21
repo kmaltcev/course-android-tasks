@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex3 Client</string>
+    <string name="title">This app demonstrates the call to other Activities in other applications using the Intent object</string>
+    <string name="register">register</string>
+    <string name="target_mail_com">target@mail.com</string>
+    <string name="email">eMail</string>
+    <string name="surf">surf</string>
+    <string name="http_www_startpage_com">www.startpage.com</string>
+    <string name="phonePlacement">052-12345678</string>
+    <string name="call">call</string>
+</resources>
