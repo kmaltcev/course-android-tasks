@@ -4,5 +4,5 @@ During taking a course on Android development I'll push all tasks given by the l
 
 * [X] Layouts
 * [X] Simple calculator
+* [X] Registration app
 * [ ] TDB
-* [ ]
